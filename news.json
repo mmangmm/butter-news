@@ -1,17 +1,4 @@
 {
   "format": 1,
-  "posts": [
-    {
-      "id": "2026-10-16-welcome",
-      "date": "2026-10-16",
-      "title": {
-        "ko": "버터 소식을 여기서 알려드려요",
-        "en": "Butter news lives here"
-      },
-      "body": {
-        "ko": "새 기능과 쓰는 요령을 이 자리에 올릴게요.",
-        "en": "New features and tips will show up here."
-      }
-    }
-  ]
+  "posts": []
 }
